@@ -17,7 +17,7 @@ void preparando(int num){
 if(num <= entrada)
 {
   //cout<<"numeroooo"<<endl;
-  cout<<num<<endl;
+  //cout<<num<<endl;
   string s;
   int num_string = num;
   s.push_back((char)num_string+'0'); 
